@@ -5,5 +5,5 @@
 
 Команды для запуска прикола:
 
-gcc main.c stack.c buffer.c -o prikol.exe
-prikol.exe
+1) gcc main.c stack.c buffer.c -o prikol.exe
+2) prikol.exe
